@@ -6,12 +6,12 @@
 
 - 🗂️ Notları kaydetme, düzenleme ve silme
 - 🔍 Arama özelliği ile notlar arasında kolay gezinme
-- 💾 Notları dosya olarak dışa aktarabilme (isteğe bağlı)
+- 💾 Notları dosya olarak dışa aktarabilme
 - 🎨 Temiz ve sade arayüz
-- 📅 Notlara tarih-saat ekleme (varsa)
-- 🔐 Notları şifreleme/dosyaya gizli kaydetme özelliği (varsa)
+- 📅 Notlara tarih-saat ekleme
 
-## 🖼️ Ekran Görüntüsü
+## 🧷 Bilinmesi Gerekenler
 
-> Projeden bir ekran görüntüsü ekleyebilirsin (örnek: `Screenshots/anasayfa.png`)
-
+- 💻 Bu Uygulama C# dilinde Windows Forms ile yazılmıştır.
+- ☁️ Uygulama değildir isterseniz uygulama yapabilirsiniz.
+- ⚠️ Başka yerde paylaşılması YASAKTIR!!!
